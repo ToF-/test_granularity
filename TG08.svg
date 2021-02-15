@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="1056" zoomAndPan="magnify" contentStyleType="text/css" height="1197" preserveAspectRatio="xMidYMid meet" version="1.0">
+<g>
+<rect x="278.0" width="255.0" height="315.0" y="840.0" style="fill:rgb(255,0,0);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M280.000000 844.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(840px,533px,1155px,278px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="294.158569336" y="856.785400391">ARGUMENT</tspan>
+</text>
+</g>
+<g>
+<rect x="682.0" width="332.0" height="362.0" y="197.0" style="fill:rgb(255,255,0);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M684.000000 201.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(197px,1014px,559px,682px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="698.045654297" y="213.439819336">PRINTING</tspan>
+</text>
+</g>
+<g>
+<rect x="154.0" width="238.0" height="248.0" y="584.0" style="fill:rgb(0,255,0);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M156.000000 588.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(584px,392px,832px,154px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="170.235351562" y="600.670410156">ANAGRAMS</tspan>
+</text>
+</g>
+<g>
+<rect x="20.0" width="266.0" height="272.0" y="264.0" style="fill:rgb(0,0,255);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M22.000000 268.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(264px,286px,536px,20px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="36.0" y="280.561035156">DICTIONARY</tspan>
+</text>
+</g>
+<g>
+<rect x="294.0" width="379.0" height="396.0" y="20.0" style="fill:rgb(255,128,0);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M296.000000 24.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(20px,673px,416px,294px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="310.249145508" y="36.3466796875">READING DATA</tspan>
+</text>
+</g>
+<g>
+<rect x="293.0" width="254.0" height="152.0" y="424.0" style="fill:rgb(255,0,128);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M295.000000 428.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(424px,547px,576px,293px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="309.887573242" y="440.578491211">WORDS</tspan>
+</text>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M901.919922 413.662971 C869.637614 427.278056 837.355306 440.893141 805.072998 454.508225 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M805.072998 454.508225 L817.979724 452.953741 L815.194771 446.350425 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M240.406221 515.165039 C262.288035 550.884603 284.169848 586.604167 306.051661 622.323730 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M306.051661 622.323730 L302.579389 609.796028 L296.468336 613.539660 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M841.140214 331.747437 C820.370199 367.717326 799.600185 403.687215 778.830170 439.657104 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M778.830170 439.657104 L788.182112 430.627090 L781.975888 427.043443 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M138.779785 435.939215 C225.998657 410.995958 313.217529 386.052701 400.436401 361.109444 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M400.436401 361.109444 L387.436405 361.100304 L389.406935 367.990641 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M449.376146 878.438721 C458.462284 804.492594 467.548421 730.546468 476.634559 656.600342 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M476.634559 656.600342 L471.553987 668.566452 L478.667062 669.440472 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M750.492797 361.617554 C752.473934 387.630737 754.455070 413.643921 756.436207 439.657104 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M756.436207 439.657104 L759.060181 426.924675 L751.914303 427.468897 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M361.350920 555.147583 C354.984380 577.539632 348.617839 599.931681 342.251299 622.323730 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M342.251299 622.323730 L349.115524 611.283694 L342.222164 609.323763 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M442.255363 123.305176 C427.145751 137.012207 412.036140 150.719238 396.926529 164.426270 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M396.926529 164.426270 L408.589538 158.683952 L403.774357 153.376055 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M263.452786 740.311523 C274.226445 727.888835 285.000104 715.466146 295.773764 703.043457 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M295.773764 703.043457 L284.879249 710.136379 L290.293367 714.831810 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M376.985027 1001.938721 C389.242486 986.570231 401.499945 971.201742 413.757405 955.833252 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M413.757405 955.833252 L403.164051 963.368559 L408.766836 967.837177 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M377.277956 231.878906 C389.933006 256.227865 402.588057 280.576823 415.243108 304.925781 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M415.243108 304.925781 L412.659649 292.185069 L406.300662 295.490069 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M809.763639 428.646606 C805.652124 432.316772 801.540609 435.986938 797.429094 439.657104 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M797.429094 439.657104 L809.137790 434.008526 L804.365341 428.662175 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M371.981689 651.036170 C389.694539 646.029345 407.407389 641.022520 425.120239 636.015695 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M425.120239 636.015695 L412.120332 635.966643 L414.069699 642.862998 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M198.389893 345.033086 C265.738729 346.467574 333.087565 347.902062 400.436401 349.336550 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M400.436401 349.336550 L388.019137 345.487972 L387.866529 352.652918 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M470.742453 462.231812 C464.381387 439.947673 458.020322 417.663534 451.659256 395.379395 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M451.659256 395.379395 L451.643721 408.379385 L458.535027 406.412244 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M265.217041 443.257288 C310.290161 419.074332 355.363281 394.891375 400.436401 370.708419 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M400.436401 370.708419 L387.730703 373.458916 L391.118900 379.773967 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M382.788604 491.989868 C395.494183 459.786377 408.199762 427.582886 420.905342 395.379395 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M420.905342 395.379395 L412.985821 405.688672 L419.652292 408.318864 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M455.905390 1025.331299 C453.489302 1002.165283 451.073214 978.999268 448.657127 955.833252 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M448.657127 955.833252 L446.389447 968.633940 L453.517357 967.890539 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M445.843649 395.379395 C455.694754 458.179281 465.545859 520.979167 475.396964 583.779053 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M475.396964 583.779053 L477.000394 570.878316 L469.920401 571.988919 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M561.027744 244.305176 C533.039126 268.532823 505.050508 292.760471 477.061890 316.988119 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M477.061890 316.988119 L488.855345 311.518711 L484.164962 306.100219 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M863.045654 492.355071 C843.721436 488.929708 824.397217 485.504344 805.072998 482.078981 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M805.072998 482.078981 L816.752174 487.788347 L818.003004 480.731778 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M448.715932 532.905640 C421.628762 562.711670 394.541592 592.517700 367.454422 622.323730 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M367.454422 622.323730 L378.510670 615.485647 L373.207020 610.665788 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M713.018311 498.143005 C654.377808 529.003623 595.737305 559.864241 537.096802 590.724859 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M537.096802 590.724859 L549.824097 588.076095 L546.486530 581.734141 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M464.042823 235.979736 C458.951423 258.961751 453.860023 281.943766 448.768623 304.925781 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M448.768623 304.925781 L454.969985 293.500235 L447.973060 291.950147 z"/>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(153,153,153)" d="M400.436401 321.092773 v-6.166992 a10,10 0 0,1 10,-10 h56.625488 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M400.436401 321.092773 v64.286621 a10,10 0 0,0 10,10 h56.625488 a10,10 0, 0,0, 10,-10 v-64.286621 z"/>
+<rect x="400.436401367" y="304.92578125" width="76.6254882812" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="90.4536132812"/>
+<text style="fill:rgb(255,255,255);font-family:Arial;font-size:11px;font-weight:bold" x="409.436401367" y="316.772460938">function</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:13px">
+<tspan x="410.234375" y="340.577636719">acquiring </tspan>
+<tspan x="429.032714844" y="355.299316406">the </tspan>
+<tspan x="408.436401367" y="370.020996094">dictionary </tspan>
+<tspan x="412.302612305" y="384.742675781">of words</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M313.887573 508.156860 v-6.166992 a10,10 0 0,1 10,-10 h92.883789 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M313.887573 508.156860 v36.990723 a10,10 0 0,0 10,10 h92.883789 a10,10 0, 0,0, 10,-10 v-36.990723 z"/>
+<rect x="313.887573242" y="491.989868164" width="112.883789062" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="63.1577148438"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="322.887573242" y="503.836547852">subfunction</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:14px">
+<tspan x="321.887573242" y="528.400512695">convert a word </tspan>
+<tspan x="327.927734375" y="544.299926758">to uppercase</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(153,153,153)" d="M289.570557 638.490723 v-6.166992 a10,10 0 0,1 10,-10 h62.411133 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M289.570557 638.490723 v54.552734 a10,10 0 0,0 10,10 h62.411133 a10,10 0, 0,0, 10,-10 v-54.552734 z"/>
+<rect x="289.570556641" y="622.323730469" width="82.4111328125" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="80.7197265625"/>
+<text style="fill:rgb(255,255,255);font-family:Arial;font-size:11px;font-weight:bold" x="298.570556641" y="634.170410156">function</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:14px">
+<tspan x="306.561279297" y="659.113769531">finding </tspan>
+<tspan x="297.570556641" y="675.602050781">anagrams </tspan>
+<tspan x="298.643798828" y="692.090332031">of a word</tspan>
+</text>
+</g>
+<g>
+<rect x="411.183959961" y="1025.33129883" width="100.874511719" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="109.609375"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px">
+<tspan x="425.916625977" y="1051.76147461">isolated tests </tspan>
+<tspan x="426.958618164" y="1064.71655273">here, using a </tspan>
+<tspan x="419.183959961" y="1077.67163086">seam substitute </tspan>
+<tspan x="434.318481445" y="1090.62670898">to the real </tspan>
+<tspan x="423.910522461" y="1103.58178711">command line </tspan>
+<tspan x="426.040405273" y="1116.53686523">argument list</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(153,153,153)" d="M400.770386 894.605713 v-6.166992 a10,10 0 0,1 10,-10 h67.701660 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M400.770386 894.605713 v51.227539 a10,10 0 0,0 10,10 h67.701660 a10,10 0, 0,0, 10,-10 v-51.227539 z"/>
+<rect x="400.770385742" y="878.438720703" width="87.7016601562" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="77.39453125"/>
+<text style="fill:rgb(255,255,255);font-family:Arial;font-size:11px;font-weight:bold" x="409.770385742" y="890.285400391">function</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:13px">
+<tspan x="408.770385742" y="914.469970703">getting line </tspan>
+<tspan x="413.53894043" y="929.780517578">command </tspan>
+<tspan x="414.130249023" y="945.091064453">argument</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(153,153,153)" d="M713.018311 455.824097 v-6.166992 a10,10 0 0,1 10,-10 h72.054688 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M713.018311 455.824097 v42.359375 a10,10 0 0,0 10,10 h72.054688 a10,10 0, 0,0, 10,-10 v-42.359375 z"/>
+<rect x="713.018310547" y="439.657104492" width="92.0546875" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="68.5263671875"/>
+<text style="fill:rgb(255,255,255);font-family:Arial;font-size:11px;font-weight:bold" x="722.018310547" y="451.50378418">function</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:16px">
+<tspan x="728.190185547" y="477.96472168">printing </tspan>
+<tspan x="721.018310547" y="496.80847168">anagrams</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M901.919922 372.721313 v-6.166992 a10,10 0 0,1 10,-10 h71.251465 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M901.919922 372.721313 v49.564941 a10,10 0 0,0 10,10 h71.251465 a10,10 0, 0,0, 10,-10 v-49.564941 z"/>
+<rect x="901.919921875" y="356.554321289" width="91.2514648438" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="75.7319335938"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="910.919921875" y="368.401000977">subfunction</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:13px">
+<tspan x="911.755004883" y="392.206176758">printing the </tspan>
+<tspan x="909.919921875" y="406.927856445">first word of </tspan>
+<tspan x="932.979614258" y="421.649536133">a list</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M314.249146 180.593262 v-6.166992 a10,10 0 0,1 10,-10 h71.000000 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M314.249146 180.593262 v41.285645 a10,10 0 0,0 10,10 h71.000000 a10,10 0, 0,0, 10,-10 v-41.285645 z"/>
+<rect x="314.249145508" y="164.426269531" width="91.0" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="67.4526367188"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="323.249145508" y="176.272949219">subfunction</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:16px">
+<tspan x="324.268066406" y="202.354492188">reading a </tspan>
+<tspan x="330.78125" y="220.609375">text file</tspan>
+</text>
+</g>
+<g>
+<rect x="414.563354492" y="139.325439453" width="120.371582031" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="96.654296875"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px">
+<tspan x="424.208374023" y="165.755615234">isolated tests here, </tspan>
+<tspan x="426.278930664" y="178.710693359">using a seam (e.g. </tspan>
+<tspan x="439.252075195" y="191.665771484">string stream </tspan>
+<tspan x="422.563354492" y="204.620849609">instead of input file </tspan>
+<tspan x="454.612915039" y="217.575927734">stream)</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M435.329468 478.398804 v-6.166992 a10,10 0 0,1 10,-10 h71.000000 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M435.329468 478.398804 v44.506836 a10,10 0 0,0 10,10 h71.000000 a10,10 0, 0,0, 10,-10 v-44.506836 z"/>
+<rect x="435.329467773" y="462.231811523" width="91.0" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="70.673828125"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="444.329467773" y="474.078491211">subfunction</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:17px">
+<tspan x="444.396362305" y="501.298217773">sorting a </tspan>
+<tspan x="460.231079102" y="521.319702148">word</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M544.530396 195.166992 v-6.166992 a10,10 0 0,1 10,-10 h88.437500 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M544.530396 195.166992 v39.138184 a10,10 0 0,0 10,10 h88.437500 a10,10 0, 0,0, 10,-10 v-39.138184 z"/>
+<rect x="544.530395508" y="179.0" width="108.4375" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="65.3051757812"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="553.530395508" y="190.846679688">subfunction</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:15px">
+<tspan x="568.209472656" y="216.169433594">adding a </tspan>
+<tspan x="552.530395508" y="233.246582031">word to a list</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M702.045654 300.390015 v-6.166992 a10,10 0 0,1 10,-10 h71.000000 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M702.045654 300.390015 v51.227539 a10,10 0 0,0 10,10 h71.000000 a10,10 0, 0,0, 10,-10 v-51.227539 z"/>
+<rect x="702.045654297" y="284.223022461" width="91.0" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="77.39453125"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="711.045654297" y="296.069702148">subfunction</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:13px">
+<tspan x="716.928466797" y="320.254272461">printing a </tspan>
+<tspan x="711.041015625" y="335.564819336">word inside </tspan>
+<tspan x="732.396972656" y="350.875366211">a list</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M40.000000 411.426270 v-6.166992 a10,10 0 0,1 10,-10 h78.779785 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M40.000000 411.426270 v83.442383 a10,10 0 0,0 10,10 h78.779785 a10,10 0, 0,0, 10,-10 v-83.442383 z"/>
+<rect x="40.0" y="395.259277344" width="98.7797851562" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="109.609375"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="49.0" y="407.105957031">subfunction</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px">
+<tspan x="54.6359863281" y="429.772949219">changing the </tspan>
+<tspan x="59.9851074219" y="442.728027344">value to an </tspan>
+<tspan x="67.9987792969" y="455.683105469">existing </tspan>
+<tspan x="63.4660644531" y="468.638183594">key/value </tspan>
+<tspan x="48.0" y="481.593261719">association in a </tspan>
+<tspan x="62.9211425781" y="494.548339844">dictionary</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M107.389893 318.381348 v-6.166992 a10,10 0 0,1 10,-10 h71.000000 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M107.389893 318.381348 v57.532227 a10,10 0 0,0 10,10 h71.000000 a10,10 0, 0,0, 10,-10 v-57.532227 z"/>
+<rect x="107.389892578" y="302.214355469" width="91.0" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="83.69921875"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="116.389892578" y="314.061035156">subfunction</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px">
+<tspan x="117.501220703" y="336.728027344">adding a new </tspan>
+<tspan x="123.485595703" y="349.683105469">key / value </tspan>
+<tspan x="115.686279297" y="362.638183594">association to </tspan>
+<tspan x="121.643554688" y="375.593261719">a dictionary</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(0,0,0)" d="M425.120239 599.946045 v-6.166992 a10,10 0 0,1 10,-10 h91.976562 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M425.120239 599.946045 v46.654297 a10,10 0 0,0 10,10 h91.976562 a10,10 0, 0,0, 10,-10 v-46.654297 z"/>
+<rect x="425.120239258" y="583.779052734" width="111.9765625" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="72.8212890625"/>
+<text style="fill:rgb(255,255,255);font-family:Arial;font-size:11px;font-weight:bold" x="434.120239258" y="595.625732422">program</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:18px">
+<tspan x="433.120239258" y="623.604248047">anagrams-</tspan>
+<tspan x="475.417602539" y="644.803466797">2</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M802.045654 377.360962 v-6.166992 a10,10 0 0,1 10,-10 h71.000000 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M802.045654 377.360962 v41.285645 a10,10 0 0,0 10,10 h71.000000 a10,10 0, 0,0, 10,-10 v-41.285645 z"/>
+<rect x="802.045654297" y="361.193969727" width="91.0" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="67.4526367188"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="811.045654297" y="373.040649414">subfunction</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:16px">
+<tspan x="817.498168945" y="399.122192383">printing </tspan>
+<tspan x="810.385009766" y="417.377075195">empty list</tspan>
+</text>
+</g>
+<g>
+<rect x="661.70715332" y="609.452392578" width="221.802734375" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="148.474609375"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px">
+<tspan x="673.38684082" y="635.882568359">Second design. Reads a file of words, </tspan>
+<tspan x="699.091430664" y="648.837646484">storing them in a key/value </tspan>
+<tspan x="670.430786133" y="661.792724609">dictionary. The key is made by sorting </tspan>
+<tspan x="678.651733398" y="674.747802734">the word uppercase characters, the </tspan>
+<tspan x="670.535522461" y="687.702880859">value is a list of the words having also </tspan>
+<tspan x="670.58972168" y="700.657958984">that key. To find all the anagrams of a </tspan>
+<tspan x="669.70715332" y="713.613037109">word, compute its key, and get the list </tspan>
+<tspan x="675.676147461" y="726.568115234">value associated with that key in the </tspan>
+<tspan x="744.399536133" y="739.523193359">dictionary.</tspan>
+</text>
+</g>
+<g>
+<rect x="553.069213867" y="767.407470703" width="167.078613281" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="122.564453125"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px">
+<tspan x="561.069213867" y="793.837646484">A significant refactoring has </tspan>
+<tspan x="571.29309082" y="806.792724609">taken place, without any </tspan>
+<tspan x="561.61706543" y="819.747802734">impact in the test code : the </tspan>
+<tspan x="571.521362305" y="832.702880859">tests only call the public </tspan>
+<tspan x="569.066772461" y="845.657958984">functions/methods. They </tspan>
+<tspan x="585.932983398" y="858.613037109">are independent of </tspan>
+<tspan x="579.79309082" y="871.568115234">implemation choices.</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M863.045654 478.721313 v-6.166992 a10,10 0 0,1 10,-10 h71.000000 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M863.045654 478.721313 v49.564941 a10,10 0 0,0 10,10 h71.000000 a10,10 0, 0,0, 10,-10 v-49.564941 z"/>
+<rect x="863.045654297" y="462.554321289" width="91.0" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="75.7319335938"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="872.045654297" y="474.401000977">subfunction</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:13px">
+<tspan x="872.755004883" y="498.206176758">printing the </tspan>
+<tspan x="872.323730469" y="512.927856445">last word of </tspan>
+<tspan x="893.979614258" y="527.649536133">a list</tspan>
+</text>
+</g>
+<g>
+<rect x="808.859863281" y="235.093139648" width="120.371582031" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="96.654296875"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px">
+<tspan x="818.504882812" y="261.52331543">isolated tests here, </tspan>
+<tspan x="820.575439453" y="274.478393555">using a seam (e.g. </tspan>
+<tspan x="833.548583984" y="287.43347168">string stream </tspan>
+<tspan x="816.859863281" y="300.388549805">instead of input file </tspan>
+<tspan x="848.909423828" y="313.34362793">stream)</tspan>
+</text>
+</g>
+<g>
+<rect x="174.235351562" y="740.311523438" width="117.081542969" style="fill:rgb(255,255,0);stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="70.744140625"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px">
+<tspan x="182.235351562" y="766.741699219">isolated tests here, </tspan>
+<tspan x="187.927734375" y="779.696777344">using a seam for </tspan>
+<tspan x="196.510498047" y="792.651855469">adding words</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M430.207764 74.166992 v-6.166992 a10,10 0 0,1 10,-10 h76.082764 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M430.207764 74.166992 v39.138184 a10,10 0 0,0 10,10 h76.082764 a10,10 0, 0,0, 10,-10 v-39.138184 z"/>
+<rect x="430.207763672" y="58.0" width="96.0827636719" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="65.3051757812"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="439.207763672" y="69.8466796875">exception</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:15px">
+<tspan x="438.373535156" y="95.1694335938">responding </tspan>
+<tspan x="438.207763672" y="112.246582031">to file error</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M161.562744 443.129883 v-6.166992 a10,10 0 0,1 10,-10 h83.654297 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M161.562744 443.129883 v62.035156 a10,10 0 0,0 10,10 h83.654297 a10,10 0, 0,0, 10,-10 v-62.035156 z"/>
+<rect x="161.562744141" y="426.962890625" width="103.654296875" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="88.2021484375"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="170.562744141" y="438.809570312">subfunction</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:12px">
+<tspan x="181.384033203" y="462.235351562">finding the </tspan>
+<tspan x="198.012939453" y="476.368164062">value </tspan>
+<tspan x="169.562744141" y="490.500976562">associated to a </tspan>
+<tspan x="203.405517578" y="504.633789062">key</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M298.158569 1018.105713 v-6.166992 a10,10 0 0,1 10,-10 h75.925293 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M298.158569 1018.105713 v51.227539 a10,10 0 0,0 10,10 h75.925293 a10,10 0, 0,0, 10,-10 v-51.227539 z"/>
+<rect x="298.158569336" y="1001.9387207" width="95.9252929688" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="77.39453125"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="307.158569336" y="1013.78540039">exception</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:13px">
+<tspan x="310.405151367" y="1037.9699707">responding </tspan>
+<tspan x="306.158569336" y="1053.28051758">to non-word </tspan>
+<tspan x="315.630249023" y="1068.59106445">argument</tspan>
+</text>
+</g>
+</svg>

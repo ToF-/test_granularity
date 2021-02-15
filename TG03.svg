@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="973" zoomAndPan="magnify" contentStyleType="text/css" height="560" preserveAspectRatio="xMidYMid meet" version="1.0">
+<g>
+<rect x="40.0" width="648.0" height="198.0" y="299.0" style="fill:rgb(0,255,0);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M42.000000 303.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(299px,688px,497px,40px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="56.0" y="315.346679688">TEST CODE</tspan>
+</text>
+</g>
+<g>
+<rect x="20.0" width="911.0" height="499.0" y="19.0" style="fill:rgb(255,255,0);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M22.000000 23.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(19px,931px,518px,20px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="36.0" y="35.3466796875">2 TESTING A FEATURE IN ISOLATION</tspan>
+</text>
+</g>
+<g>
+<rect x="383.0" width="528.0" height="212.0" y="58.0" style="fill:rgb(0,0,255);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M385.000000 62.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(58px,911px,270px,383px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="399.0" y="74.3466796875">PRODUCTION CODE UNDER TEST</tspan>
+</text>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M513.017496 208.559457 C538.921468 208.559479 564.825439 208.559502 590.729410 208.559524 "/>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M625.979410 208.559524 C625.979410 208.559524 625.979410 208.559524 625.979410 208.559524 625.979410 208.559524 625.979410 208.559524 625.979410 208.559524 625.979410 208.559524 625.979410 208.559524 625.979410 208.559524 625.979410 208.559524 625.979410 208.559524 625.979410 208.559524 672.992874 208.559546 720.006337 208.559568 767.019801 208.559590 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M767.019801 208.559590 L754.523400 204.976299 L754.523397 212.142870 z"/>
+<g>
+<rect x="590.729410342" width="35.25" height="25.1328125" y="195.99311756" style="fill:rgb(255,255,128);stroke-width:1;stroke:rgb(0,0,0)"/>
+</g>
+<text>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="596.354431152" y="213.161087036">use</tspan>
+</text>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M174.850098 434.154129 C299.777642 434.325372 424.705186 434.496615 549.632731 434.667857 "/>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M667.076090 434.667857 C672.631646 434.667857 678.187201 434.667857 683.742757 434.667857 692.076090 434.667857 692.076090 434.667857 712.057327 368.063734 718.717739 345.862360 725.378151 323.660986 732.038564 301.459612 752.019801 234.855489 752.019801 234.855489 757.019801 234.855489 760.353134 234.855489 763.686467 234.855489 767.019801 234.855489 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M767.019801 234.855489 L754.523398 231.272203 L754.523398 238.438775 z"/>
+<g>
+<rect x="549.632730655" width="117.443359375" height="81.6640625" y="393.835825893" style="fill:rgb(255,255,128);stroke-width:1;stroke:rgb(0,0,0)"/>
+</g>
+<text>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="555.354431152" y="411.26940918">create and pass it </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="555.354431152" y="425.40222168">to ACCOUNT </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="555.354431152" y="439.53503418">through one of </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="555.354431152" y="453.66784668">ACCOUNT </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="555.354431152" y="467.80065918">methods</tspan>
+</text>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M513.017496 182.263559 C515.239719 182.263559 517.461941 182.263559 519.684163 182.263559 523.017496 182.263559 523.017496 182.263559 536.350830 165.404145 540.795274 159.784340 545.239719 154.164536 549.684163 148.544731 563.017496 131.685317 563.017496 131.685317 568.017496 131.685317 571.350830 131.685317 574.684163 131.685317 578.017496 131.685317 "/>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M638.691324 131.685317 C638.691324 131.685317 638.691324 131.685317 638.691324 131.685317 638.691324 131.685317 638.691324 131.685317 638.691324 131.685317 638.691324 131.685317 638.691324 131.685317 638.691324 131.685317 638.691324 131.685317 638.691324 131.685317 638.691324 131.685317 681.250035 131.685317 723.808746 131.685317 766.367457 131.685317 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M766.367457 131.685317 L753.871055 128.102032 L753.871055 135.268603 z"/>
+<g>
+<rect x="578.01749628" width="60.673828125" height="39.265625" y="112.05250496" style="fill:rgb(255,255,128);stroke-width:1;stroke:rgb(0,0,0)"/>
+</g>
+<text>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="583.854431152" y="129.286880493">create </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="583.854431152" y="143.419692993">and use</tspan>
+</text>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(255,77,77);stroke-width:1" d="M174.850098 379.349442 C196.516764 379.178199 218.183431 379.006957 239.850098 378.835714 "/>
+<path style="fill:none;stroke:rgb(255,77,77);stroke-width:1" d="M323.613770 378.835714 C325.835992 378.835714 328.058214 378.835714 330.280436 378.835714 333.613770 378.835714 333.613770 378.835714 351.956190 317.694312 358.070330 297.313845 364.184471 276.933377 370.298611 256.552910 388.641031 195.411508 388.641031 195.411508 393.641031 195.411508 396.974365 195.411508 400.307698 195.411508 403.641031 195.411508 "/>
+<path style="fill:rgb(255,77,77);stroke:none" d="M403.641031 195.411508 L391.144629 191.828222 L391.144629 198.994794 z"/>
+<g>
+<rect x="239.850097656" width="83.763671875" height="81.6640625" y="338.003683036" style="fill:rgb(255,255,128);stroke-width:1;stroke:rgb(0,0,0)"/>
+</g>
+<text>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="245.731933594" y="355.437286377">create, then </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="245.731933594" y="369.570098877">execute an </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="245.731933594" y="383.702911377">action, then </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="245.731933594" y="397.835723877">check a </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="245.731933594" y="411.968536377">result</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(102,102,102)" d="M766.367457 114.125991 v-6.166992 a10,10 0 0,1 10,-10 h103.864258 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M766.367457 114.125991 v41.285645 a10,10 0 0,0 10,10 h103.864258 a10,10 0, 0,0, 10,-10 v-41.285645 z"/>
+<rect x="766.367456752" y="97.9589991009" width="123.864257812" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="67.4526367188"/>
+<text style="fill:rgb(255,255,255);font-family:Arial;font-size:11px;font-weight:bold" x="775.367456752" y="109.805678788">class</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:16px">
+<tspan x="793.927734375" y="135.88722229">BALANCE </tspan>
+<tspan x="774.367431641" y="154.142105103">CALCULATION</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(102,204,0)" d="M60.000000 368.114090 v-6.166992 a10,10 0 0,1 10,-10 h94.850098 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M60.000000 368.114090 v83.442383 a10,10 0 0,0 10,10 h94.850098 a10,10 0, 0,0, 10,-10 v-83.442383 z"/>
+<rect x="60.0" y="351.947098214" width="114.850097656" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="109.609375"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="69.0" y="363.793777902">isolated test</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px">
+<tspan x="78.5385742188" y="386.460784912">example: after </tspan>
+<tspan x="77.3305664062" y="399.415863037">adding a credit </tspan>
+<tspan x="71.9450683594" y="412.370941162">movement to the </tspan>
+<tspan x="84.5402832031" y="425.326019287">account, the </tspan>
+<tspan x="68.0" y="438.281097412">account balance is </tspan>
+<tspan x="91.9230957031" y="451.236175537">increased</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(102,102,102)" d="M767.019801 211.578633 v-6.166992 a10,10 0 0,1 10,-10 h102.559570 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M767.019801 211.578633 v26.424805 a10,10 0 0,0 10,10 h102.559570 a10,10 0, 0,0, 10,-10 v-26.424805 z"/>
+<rect x="767.019800502" y="195.411641245" width="122.559570312" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="52.591796875"/>
+<text style="fill:rgb(255,255,255);font-family:Arial;font-size:11px;font-weight:bold" x="776.019800502" y="207.258320933">class</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:19px">
+<tspan x="775.019775391" y="235.995620728">MOVEMENT</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(102,102,102)" d="M403.641031 185.282602 v-6.166992 a10,10 0 0,1 10,-10 h89.376465 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M403.641031 185.282602 v26.424805 a10,10 0 0,0 10,10 h89.376465 a10,10 0, 0,0, 10,-10 v-26.424805 z"/>
+<rect x="403.641031436" y="169.115609499" width="109.376464844" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="52.591796875"/>
+<text style="fill:rgb(255,255,255);font-family:Arial;font-size:11px;font-weight:bold" x="412.641031436" y="180.962289187">class</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:19px">
+<tspan x="411.641021729" y="209.69960022">ACCOUNT</tspan>
+</text>
+</g>
+</svg>

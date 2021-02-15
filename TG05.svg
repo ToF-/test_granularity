@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="1004" zoomAndPan="magnify" contentStyleType="text/css" height="843" preserveAspectRatio="xMidYMid meet" version="1.0">
+<g>
+<rect x="20.0" width="942.0" height="782.0" y="19.0" style="fill:rgb(255,255,0);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M22.000000 23.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(19px,962px,801px,20px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="36.0" y="35.6804122925">4 USING A MOCK TEST DOUBLE</tspan>
+</text>
+</g>
+<g>
+<rect x="406.0" width="527.0" height="216.0" y="58.0" style="fill:rgb(0,0,255);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M408.000000 62.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(58px,933px,274px,406px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="422.07208252" y="74.6804122925">PRODUCTION CODE UNDER TEST</tspan>
+</text>
+</g>
+<g>
+<rect x="409.0" width="533.0" height="191.0" y="589.0" style="fill:rgb(255,0,0);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M411.000000 593.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(589px,942px,780px,409px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="425.140686035" y="605.686767578">EXTERNAL STATE DEPENDENT CODE</tspan>
+</text>
+</g>
+<g>
+<rect x="40.0" width="661.0" height="257.0" y="303.0" style="fill:rgb(0,255,0);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M42.000000 307.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(303px,701px,560px,40px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="56.0" y="319.505004883">TEST CODE</tspan>
+</text>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M541.732719 192.368675 C569.368706 192.368667 597.004692 192.368659 624.640678 192.368651 "/>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M659.890678 192.368651 C716.953503 192.368658 774.016327 192.368664 831.079152 192.368671 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M831.079152 192.368671 L818.582750 188.785384 L818.582749 195.951955 z"/>
+<g>
+<rect x="624.640678478" width="35.25" height="25.1328125" y="179.802244544" style="fill:rgb(255,255,128);stroke-width:1;stroke:rgb(0,0,0)"/>
+</g>
+<text>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="630.265686035" y="196.970214844">use</tspan>
+</text>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M156.589355 417.897814 C158.811578 417.897814 161.033800 417.897814 163.256022 417.897814 166.589355 417.897814 166.589355 417.897814 185.566243 406.262035 191.891873 402.383442 198.217502 398.504849 204.543132 394.626256 223.520020 382.990476 223.520020 382.990476 228.520020 382.990476 231.853353 382.990476 235.186686 382.990476 238.520020 382.990476 "/>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M331.734863 382.990476 C335.497233 382.990476 339.259603 382.990476 343.021973 382.990476 348.665527 382.990476 348.665527 382.990476 369.467710 313.649868 376.401771 290.536332 383.335832 267.422795 390.269892 244.309259 411.072075 174.968651 411.072075 174.968651 416.072075 174.968651 419.405408 174.968651 422.738742 174.968651 426.072075 174.968651 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M426.072075 174.968651 L413.575673 171.385365 L413.575673 178.551936 z"/>
+<g>
+<rect x="238.520019531" width="93.21484375" height="81.6640625" y="342.15844494" style="fill:rgb(255,255,128);stroke-width:1;stroke:rgb(0,0,0)"/>
+</g>
+<text>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="244.127441406" y="359.592041016">create, giving </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="244.127441406" y="373.724853516">it a test </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="244.127441406" y="387.857666016">double, </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="244.127441406" y="401.990478516">execute an </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="244.127441406" y="416.123291016">action</tspan>
+</text>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M538.664116 660.690630 C540.886338 660.690630 543.108560 660.690630 545.330783 660.690630 548.664116 660.690630 548.664116 660.690630 561.997449 654.096002 566.441894 651.897793 570.886338 649.699584 575.330783 647.501374 588.664116 640.906746 588.664116 640.906746 593.664116 640.906746 596.997449 640.906746 600.330783 640.906746 603.664116 640.906746 "/>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M680.867241 640.906746 C684.200574 640.906746 687.533908 640.906746 690.867241 640.906746 695.867241 640.906746 695.867241 640.906746 735.937878 507.337956 749.294757 462.815026 762.651636 418.292096 776.008515 373.769166 816.079152 240.200377 816.079152 240.200377 821.079152 240.200377 824.412485 240.200377 827.745818 240.200377 831.079152 240.200377 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M831.079152 240.200377 L818.582750 236.617091 L818.582750 243.783662 z"/>
+<g>
+<rect x="603.664115978" width="77.203125" height="25.1328125" y="628.340339782" style="fill:rgb(255,255,128);stroke-width:1;stroke:rgb(0,0,0)"/>
+</g>
+<text>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="609.265686035" y="645.508300781">implement</tspan>
+</text>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(255,77,77);stroke-width:1" d="M156.589355 459.747424 C158.811578 459.747424 161.033800 459.747424 163.256022 459.747424 166.589355 459.747424 166.589355 459.747424 179.922689 471.383203 184.367133 475.261796 188.811578 479.140389 193.256022 483.018983 206.589355 494.654762 206.589355 494.654762 211.589355 494.654762 214.922689 494.654762 218.256022 494.654762 221.589355 494.654762 "/>
+<path style="fill:none;stroke:rgb(255,77,77);stroke-width:1" d="M348.665527 494.654762 C381.077817 494.654762 413.490107 494.654762 445.902397 494.654762 "/>
+<path style="fill:rgb(255,77,77);stroke:none" d="M445.902397 494.654762 L433.405995 491.071476 L433.405995 498.238048 z"/>
+<g>
+<rect x="221.589355469" width="127.076171875" height="81.6640625" y="453.822730655" style="fill:rgb(255,255,128);stroke-width:1;stroke:rgb(0,0,0)"/>
+</g>
+<text>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="227.127441406" y="471.256317139">create as a test </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="227.127441406" y="485.389129639">double, and check </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="227.127441406" y="499.521942139">that class under </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="227.127441406" y="513.654785156">test interacted with </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="227.127441406" y="527.787597656">it during action</tspan>
+</text>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M538.664116 694.953814 C540.886338 694.953814 543.108560 694.953814 545.330783 694.953814 548.664116 694.953814 548.664116 694.953814 565.368869 700.026749 570.937119 701.717727 576.505370 703.408706 582.073621 705.099684 598.778374 710.172619 598.778374 710.172619 603.778374 710.172619 607.111707 710.172619 610.445040 710.172619 613.778374 710.172619 "/>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M670.752983 710.172619 C721.332938 710.172619 771.912893 710.172619 822.492848 710.172619 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M822.492848 710.172619 L809.996446 706.589333 L809.996446 713.755905 z"/>
+<g>
+<rect x="613.778373791" width="56.974609375" height="53.3984375" y="683.473400298" style="fill:rgb(255,255,128);stroke-width:1;stroke:rgb(0,0,0)"/>
+</g>
+<text>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="619.765686035" y="700.774169922">require </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="619.765686035" y="714.906982422">and </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="619.765686035" y="729.039794922">effect</tspan>
+</text>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M521.902397 494.654762 C549.156303 494.654762 576.410210 494.654762 603.664116 494.654762 "/>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M680.867241 494.654762 C684.200574 494.654762 687.533908 494.654762 690.867241 494.654762 695.867241 494.654762 695.867241 494.654762 735.937878 401.864683 749.294757 370.934656 762.651636 340.004630 776.008515 309.074603 816.079152 216.284524 816.079152 216.284524 821.079152 216.284524 824.412485 216.284524 827.745818 216.284524 831.079152 216.284524 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M831.079152 216.284524 L818.582750 212.701238 L818.582750 219.867809 z"/>
+<g>
+<rect x="603.664115978" width="77.203125" height="25.1328125" y="482.088355655" style="fill:rgb(255,255,128);stroke-width:1;stroke:rgb(0,0,0)"/>
+</g>
+<text>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="609.265686035" y="499.256317139">implement</tspan>
+</text>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M541.732719 157.568626 C543.954942 157.568626 546.177164 157.568626 548.399386 157.568626 551.732719 157.568626 551.732719 157.568626 568.486544 146.336492 574.071153 142.592447 579.655761 138.848402 585.240369 135.104357 601.994194 123.872222 601.994194 123.872222 606.994194 123.872222 610.327527 123.872222 613.660861 123.872222 616.994194 123.872222 "/>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M667.537163 123.872222 C722.136608 123.872222 776.736054 123.872222 831.335499 123.872222 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M831.335499 123.872222 L818.839097 120.288937 L818.839097 127.455508 z"/>
+<g>
+<rect x="616.994194103" width="50.54296875" height="25.1328125" y="111.305815972" style="fill:rgb(255,255,128);stroke-width:1;stroke:rgb(0,0,0)"/>
+</g>
+<text>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="622.765686035" y="128.4737854">create</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(51,102,0)" d="M445.902397 467.136695 v-6.166992 a10,10 0 0,1 10,-10 h56.000000 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M445.902397 467.136695 v61.203125 a10,10 0 0,0 10,10 h56.000000 a10,10 0, 0,0, 10,-10 v-61.203125 z"/>
+<rect x="445.902397228" y="450.969703311" width="76.0" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="87.3701171875"/>
+<text style="fill:rgb(255,255,255);font-family:Arial;font-size:11px;font-weight:bold" x="454.902397228" y="462.816382999">test class</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:16px">
+<tspan x="462.921936035" y="489.277313232">mock </tspan>
+<tspan x="460.351623535" y="508.121063232">EMAIL </tspan>
+<tspan x="453.960998535" y="526.96484375">SENDER</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(102,204,0)" d="M60.000000 413.140002 v-6.166992 a10,10 0 0,1 10,-10 h76.589355 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M60.000000 413.140002 v57.532227 a10,10 0 0,0 10,10 h76.589355 a10,10 0, 0,0, 10,-10 v-57.532227 z"/>
+<rect x="60.0" y="396.973009673" width="96.5893554688" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="83.69921875"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="69.0" y="408.81968936">isolated test</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px">
+<tspan x="68.0" y="431.486694336">after validating </tspan>
+<tspan x="80.9582519531" y="444.441772461">an order a </tspan>
+<tspan x="74.1257324219" y="457.396850586">confirmation </tspan>
+<tspan x="74.6662597656" y="470.351928711">email is sent</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(102,102,102)" d="M831.335499 113.500884 v-6.166992 a10,10 0 0,1 10,-10 h60.984131 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M831.335499 113.500884 v26.909668 a10,10 0 0,0 10,10 h60.984131 a10,10 0, 0,0, 10,-10 v-26.909668 z"/>
+<rect x="831.335499442" y="97.3338921441" width="80.9841308594" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="53.0766601562"/>
+<text style="fill:rgb(255,255,255);font-family:Arial;font-size:11px;font-weight:bold" x="840.335499442" y="109.180571832">class</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:20px">
+<tspan x="839.335510254" y="138.297271729">ORDER</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(102,102,102)" d="M426.072075 156.335594 v-6.166992 a10,10 0 0,1 10,-10 h95.660645 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M426.072075 156.335594 v43.433105 a10,10 0 0,0 10,10 h95.660645 a10,10 0, 0,0, 10,-10 v-43.433105 z"/>
+<rect x="426.072074963" y="140.168601966" width="115.660644531" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="69.6000976562"/>
+<text style="fill:rgb(255,255,255);font-family:Arial;font-size:11px;font-weight:bold" x="435.072074963" y="152.015281653">class</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:17px">
+<tspan x="456.625793457" y="178.855606079">ORDER </tspan>
+<tspan x="434.07208252" y="198.288223267">VALIDATION</tspan>
+</text>
+</g>
+<g>
+<rect x="822.492848075" y="661.84547061" width="98.6694335938" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="96.654296875"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px">
+<tspan x="844.609313965" y="688.275634766">EXTERNAL </tspan>
+<tspan x="843.300964355" y="701.230712891">STATE (e.g </tspan>
+<tspan x="830.492858887" y="714.185791016">DATABASE, file, </tspan>
+<tspan x="848.711608887" y="727.140869141">network, </tspan>
+<tspan x="853.195251465" y="740.095947266">device)</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M831.079152 196.577737 v-6.166992 a10,10 0 0,1 10,-10 h61.496826 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M831.079152 196.577737 v45.580566 a10,10 0 0,0 10,10 h61.496826 a10,10 0, 0,0, 10,-10 v-45.580566 z"/>
+<rect x="831.079151786" y="180.410744513" width="81.4968261719" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="71.7475585938"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="840.079151786" y="192.2574242">interface</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:18px">
+<tspan x="846.490783691" y="219.856552124">EMAIL </tspan>
+<tspan x="839.079162598" y="240.466903687">SENDER</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(102,102,102)" d="M429.140678 659.726031 v-6.166992 a10,10 0 0,1 10,-10 h89.523438 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M429.140678 659.726031 v42.359375 a10,10 0 0,0 10,10 h89.523438 a10,10 0, 0,0, 10,-10 v-42.359375 z"/>
+<rect x="429.140678478" y="643.559038628" width="109.5234375" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="68.5263671875"/>
+<text style="fill:rgb(255,255,255);font-family:Arial;font-size:11px;font-weight:bold" x="438.140678478" y="655.405718316">class</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:16px">
+<tspan x="437.140686035" y="681.866638184">SMTP EMAIL </tspan>
+<tspan x="453.960998535" y="700.710388184">SENDER</tspan>
+</text>
+</g>
+</svg>

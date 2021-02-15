@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="516" zoomAndPan="magnify" contentStyleType="text/css" height="266" preserveAspectRatio="xMidYMid meet" version="1.0">
+<g>
+<rect x="40.0" width="262.0" height="145.0" y="58.0" style="fill:rgb(0,255,0);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M42.000000 62.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(58px,302px,203px,40px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="56.0" y="75.1466827393">TEST CODE</tspan>
+</text>
+</g>
+<g>
+<rect x="321.0" width="133.0" height="131.0" y="65.0" style="fill:rgb(0,0,255);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M323.000000 69.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(65px,454px,196px,321px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="337.560058594" y="81.6593780518">PRODUCTION CODE UNDER TEST</tspan>
+</text>
+</g>
+<g>
+<rect x="20.0" width="454.0" height="205.0" y="19.0" style="fill:rgb(255,255,0);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M22.000000 23.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(19px,474px,224px,20px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="36.0" y="36.1466789246">1 TESTING A SIMPLE FUNCTION IN ISOLATION</tspan>
+</text>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(255,77,77);stroke-width:1" d="M157.796387 139.650000 C171.129720 139.650000 184.463053 139.650000 197.796387 139.650000 "/>
+<path style="fill:none;stroke:rgb(255,77,77);stroke-width:1" d="M281.560059 139.650000 C301.560059 139.650000 321.560059 139.650000 341.560059 139.650000 "/>
+<path style="fill:rgb(255,77,77);stroke:none" d="M341.560059 139.650000 L329.063657 136.066714 L329.063657 143.233286 z"/>
+<g>
+<rect x="197.796386719" width="83.763671875" height="81.6640625" y="98.81796875" style="fill:rgb(255,255,128);stroke-width:1;stroke:rgb(0,0,0)"/>
+</g>
+<text>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="203.678222656" y="116.251564026">create, then </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="203.678222656" y="130.384368896">execute an </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="203.678222656" y="144.517181396">action, then </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="203.678222656" y="158.649993896">check a </tspan>
+<tspan style="fill:rgb(0,0,0);font-family:Arial;font-size:12px" x="203.678222656" y="172.782806396">result</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(102,102,102)" d="M341.560059 120.480078 v-6.166992 a10,10 0 0,1 10,-10 h72.048828 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M341.560059 120.480078 v44.506836 a10,10 0 0,0 10,10 h72.048828 a10,10 0, 0,0, 10,-10 v-44.506836 z"/>
+<rect x="341.560058594" y="104.313085938" width="92.048828125" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="70.673828125"/>
+<text style="fill:rgb(255,255,255);font-family:Arial;font-size:11px;font-weight:bold" x="350.560058594" y="116.159765625">class</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:17px">
+<tspan x="349.560058594" y="143.379486084">BOWLING </tspan>
+<tspan x="355.165771484" y="163.400970459">SCORER</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(102,204,0)" d="M60.000000 113.967383 v-6.166992 a10,10 0 0,1 10,-10 h77.796387 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M60.000000 113.967383 v57.532227 a10,10 0 0,0 10,10 h77.796387 a10,10 0, 0,0, 10,-10 v-57.532227 z"/>
+<rect x="60.0" y="97.800390625" width="97.7963867188" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="83.69921875"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="69.0" y="109.647070313">isolated test</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px">
+<tspan x="68.271484375" y="132.314056396">example : after </tspan>
+<tspan x="68.8876953125" y="145.269134521">adding a throw </tspan>
+<tspan x="77.4523925781" y="158.224212646">the bowling </tspan>
+<tspan x="68.0" y="171.179290771">score increases</tspan>
+</text>
+</g>
+</svg>

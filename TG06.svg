@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="645" zoomAndPan="magnify" contentStyleType="text/css" height="789" preserveAspectRatio="xMidYMid meet" version="1.0">
+<g>
+<rect x="20.0" width="583.0" height="287.0" y="19.0" style="fill:rgb(0,0,255);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M22.000000 23.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(19px,603px,306px,20px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="36.0" y="35.8308067322">Example</tspan>
+</text>
+</g>
+<g>
+<rect x="36.0" width="349.0" height="153.0" y="335.0" style="fill:rgb(255,255,0);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M38.000000 339.500000 h10.000000 l-5.000000 5.000000 z"/>
+</g>
+<g>
+<rect x="31.0" width="560.0" height="230.0" y="517.0" style="fill:rgb(0,0,255);stroke:none" opacity="0.1"/>
+<path style="stroke:none;fill:rgb(0,0,255)" opacity="0.3" d="M33.000000 521.500000 h10.000000 l-5.000000 5.000000 z"/>
+<text style="fill:rgb(0,0,0);rect(517px,591px,747px,31px);font-family:Arial;font-size:11px;font-weight:bold">
+<tspan x="47.8322753906" y="533.645874023">Usage</tspan>
+</text>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M349.687494 592.709921 C391.932216 592.709921 434.176937 592.709921 476.421659 592.709921 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M476.421659 592.709921 L463.925257 589.126635 L463.925257 596.293206 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M343.540156 171.586905 C384.015427 171.586943 424.490699 171.586981 464.965971 171.587019 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M464.965971 171.587019 L452.469572 168.003722 L452.469565 175.170293 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M147.077393 592.709921 C179.175779 592.709921 211.274166 592.709921 243.372553 592.709921 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M243.372553 592.709921 L230.876151 589.126635 L230.876151 596.293206 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M185.534668 171.586905 C206.863076 171.586905 228.191484 171.586905 249.519892 171.586905 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M249.519892 171.586905 L237.023490 168.003619 L237.023490 175.170190 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M173.702393 692.310317 C175.924615 692.310317 178.146837 692.310317 180.369059 692.310317 183.702393 692.310317 183.702393 692.310317 198.592446 664.953718 203.555797 655.834852 208.519148 646.715985 213.482500 637.597119 228.372553 610.240520 228.372553 610.240520 233.372553 610.240520 236.705886 610.240520 240.039220 610.240520 243.372553 610.240520 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M243.372553 610.240520 L230.876151 606.657234 L230.876151 613.823805 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M169.060791 411.494444 C171.283013 411.494444 173.505235 411.494444 175.727458 411.494444 179.060791 411.494444 179.060791 411.494444 195.429279 466.056070 200.885441 484.243279 206.341604 502.430487 211.797766 520.617696 228.166254 575.179322 228.166254 575.179322 233.235020 575.179322 236.614198 575.179322 239.993375 575.179322 243.372553 575.179322 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M243.372553 575.179322 L230.876151 571.596036 L230.876151 578.762607 z"/>
+</g>
+<g>
+<path style="fill:none;stroke:rgb(0,0,0);stroke-width:1" d="M364.893793 405.017063 C370.449349 405.017063 376.004904 405.017063 381.560460 405.017063 389.893793 405.017063 389.893793 405.017063 409.917852 338.270200 416.592539 316.021245 423.267225 293.772291 429.941911 271.523336 449.965971 204.776473 449.965971 204.776473 454.965971 204.776473 458.299304 204.776473 461.632637 204.776473 464.965971 204.776473 "/>
+<path style="fill:rgb(0,0,0);stroke:none" d="M464.965971 204.776473 L452.469568 201.193187 L452.469568 208.359758 z"/>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M476.421659 574.076864 v-6.166992 a10,10 0 0,1 10,-10 h74.431396 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M476.421659 574.076864 v43.433105 a10,10 0 0,0 10,10 h74.431396 a10,10 0, 0,0, 10,-10 v-43.433105 z"/>
+<rect x="476.421658994" y="557.909871807" width="94.4313964844" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="69.6000976562"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="485.421658994" y="569.756551494">output</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:17px">
+<tspan x="500.898590088" y="596.596862793">list of </tspan>
+<tspan x="484.421661377" y="616.02947998">anagrams</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M78.457275 572.466268 v-6.166992 a10,10 0 0,1 10,-10 h48.620117 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M78.457275 572.466268 v46.654297 a10,10 0 0,0 10,10 h48.620117 a10,10 0, 0,0, 10,-10 v-46.654297 z"/>
+<rect x="78.4572753906" y="556.299276104" width="68.6201171875" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="72.8212890625"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="87.4572753906" y="568.145955791">input</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:18px">
+<tspan x="86.4572753906" y="596.124450684">words </tspan>
+<tspan x="99.2409667969" y="617.323669434">file</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(0,0,0)" d="M243.372553 582.581014 v-6.166992 a10,10 0 0,1 10,-10 h86.314941 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M243.372553 582.581014 v26.424805 a10,10 0 0,0 10,10 h86.314941 a10,10 0, 0,0, 10,-10 v-26.424805 z"/>
+<rect x="243.372553013" y="566.414022197" width="106.314941406" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="52.591796875"/>
+<text style="fill:rgb(255,255,255);font-family:Arial;font-size:11px;font-weight:bold" x="252.372553013" y="578.260701885">program</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:19px">
+<tspan x="251.372558594" y="606.99798584">anagrams</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M40.000000 74.651358 v-6.166992 a10,10 0 0,1 10,-10 h125.534668 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M40.000000 74.651358 v200.038086 a10,10 0 0,0 10,10 h125.534668 a10,10 0, 0,0, 10,-10 v-200.038086 z"/>
+<rect x="40.0" y="58.4843656994" width="145.534667969" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="226.205078125"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="49.0" y="70.3310453869">input</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px">
+<tspan x="48.0" y="92.9980392456">words file containing [..,</tspan>
+<tspan x="94.2585449219" y="105.953117371">
+baker,</tspan>
+<tspan x="105.806396484" y="118.908195496">
+..,</tspan>
+<tspan x="97.3227539062" y="131.86328125">
+bark,</tspan>
+<tspan x="105.806396484" y="144.818359375">
+..,</tspan>
+<tspan x="100.730712891" y="157.7734375">
+bat,</tspan>
+<tspan x="105.806396484" y="170.728515625">
+..,</tspan>
+<tspan x="94.2585449219" y="183.68359375">
+brake,</tspan>
+<tspan x="105.806396484" y="196.638671875">
+..,</tspan>
+<tspan x="94.2585449219" y="209.59375">
+break,</tspan>
+<tspan x="105.806396484" y="222.548828125">
+..,</tspan>
+<tspan x="101.375244141" y="235.50390625">
+cat,</tspan>
+<tspan x="105.806396484" y="248.458984375">
+..,</tspan>
+<tspan x="97.1535644531" y="261.4140625">
+cake,</tspan>
+<tspan x="105.758056641" y="274.369140625">
+..]</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(0,0,0)" d="M249.519892 152.953848 v-6.166992 a10,10 0 0,1 10,-10 h74.020264 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M249.519892 152.953848 v43.433105 a10,10 0 0,0 10,10 h74.020264 a10,10 0, 0,0, 10,-10 v-43.433105 z"/>
+<rect x="249.519891881" y="136.786855934" width="94.0202636719" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="69.6000976562"/>
+<text style="fill:rgb(255,255,255);font-family:Arial;font-size:11px;font-weight:bold" x="258.519891881" y="148.633535621">program</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:17px">
+<tspan x="257.519897461" y="175.473861694">anagrams </tspan>
+<tspan x="267.82421875" y="194.906478882">"break"</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M464.965971 171.159285 v-6.166992 a10,10 0 0,1 10,-10 h97.342773 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M464.965971 171.159285 v40.211914 a10,10 0 0,0 10,10 h97.342773 a10,10 0, 0,0, 10,-10 v-40.211914 z"/>
+<rect x="464.965970517" y="154.992292907" width="117.342773438" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="66.37890625"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="473.965970517" y="166.838972594">output</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:15px">
+<tspan x="472.9659729" y="192.541122437">[baker, brake, </tspan>
+<tspan x="500.705230713" y="210.207138062">break]</tspan>
+</text>
+</g>
+<g>
+<rect x="228.166254185" y="356.689915055" width="136.727539062" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="96.654296875"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px">
+<tspan x="245.528076172" y="383.12008667">ANAGRAM : a word </tspan>
+<tspan x="236.166259766" y="396.075164795">formed by rearranging </tspan>
+<tspan x="238.373046875" y="409.03024292">the letters of another, </tspan>
+<tspan x="236.268310547" y="421.985321045">such as "spar", formed </tspan>
+<tspan x="264.6015625" y="434.94039917">from "rasp".</tspan>
+</text>
+</g>
+<g>
+<path style="stroke:none;fill:rgb(204,204,204)" d="M51.832275 675.287857 v-6.166992 a10,10 0 0,1 10,-10 h101.870117 a10,10 0, 0,1, 10,10 v6.166992 z"/>
+<path style="stroke:none;fill:rgb(255,255,255)" d="M51.832275 675.287857 v40.211914 a10,10 0 0,0 10,10 h101.870117 a10,10 0, 0,0, 10,-10 v-40.211914 z"/>
+<rect x="51.8322753906" y="659.120864335" width="121.870117188" style="fill:none;stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="66.37890625"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px;font-weight:bold" x="60.8322753906" y="670.967544023">input</text>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:15px">
+<tspan x="59.8322753906" y="696.669677734">searched word </tspan>
+<tspan x="77.5854492188" y="714.335693359">argument</tspan>
+</text>
+</g>
+<g>
+<rect x="56.4738769531" y="356.689756944" width="112.586914062" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)" rx="10" ry="10" height="109.609375"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:11px">
+<tspan x="81.9047851562" y="383.119934082">Example : a </tspan>
+<tspan x="77.5766601562" y="396.075012207">program that </tspan>
+<tspan x="64.4738769531" y="409.030090332">finds anagrams of </tspan>
+<tspan x="65.2915039062" y="421.985168457">a word, searching </tspan>
+<tspan x="72.4699707031" y="434.940246582">them in a word </tspan>
+<tspan x="102.760986328" y="447.895324707">file.</tspan>
+</text>
+</g>
+</svg>
